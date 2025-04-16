@@ -14,7 +14,9 @@
 ## Installation
 
 ```
-$ go get github.com/whyrusleeping/ipfs-key
+wget https://github.com/LasseRapo/ipfs-key/releases/download/v1.0/ipfs-key_1.0_linux_amd64.tar.gz
+tar -xzf ipfs-key_1.0.0_linux_amd64.tar.gz
+sudo mv ipfs-key_linux_amd64 /usr/local/bin/ipfs-key
 ```
 
 ## Usage
